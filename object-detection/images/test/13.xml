@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>13.jpg</filename>
+	<path>/Users/panda/Naga/router_images/test/13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>864</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Verizon Router</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>42</ymin>
+			<xmax>521</xmax>
+			<ymax>1142</ymax>
+		</bndbox>
+	</object>
+</annotation>
