@@ -1,5 +1,5 @@
 # Deep Learning Projects
-This repository contains all the Machine Learning and Deep Learning projects that I worked on, spans across the two sub domains of Artificial Intelligence i.e., Computer Vision and Text Processing as a part of Machine Learning Nano Degree program at Udacity.
+This repository contains all the Deep Learning projects that I have developed/worked int he areas of Natural Language Processing and Computer Vision by using the deep learning frameworks such as tensorflow, opencv, keras and pytorch.
 
 # Install
 
@@ -15,4 +15,5 @@ All the projects in this repository requires Python 3.6* and the following Pytho
 * opencv
 * seaborn
 * bokeh
+* h2o
 
